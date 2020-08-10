@@ -1,7 +1,7 @@
 //lexer/lexer.go
 package lexer
 
-import "monkey/token"
+import "Monkey/token"
 
 //Lexer is
 type Lexer struct {
